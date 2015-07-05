@@ -1,0 +1,17 @@
+1.因為沒有catch 去接丟出來的東西
+
+2.也不會，因為3.0電腦是看成double 所以也沒東西去接
+  程式會直接結束
+
+3.
+
+compile:
+
+make
+
+running script:
+
+F74036417@2015cpp:~/lab8$ ./tetris
+Exception happened: std::bad_alloc
+
+
